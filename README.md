@@ -1,3 +1,6 @@
+# Deprecation Notice
+This project has been moved to the monorepository /HomeMonitor, and the current repository will no longer be maintained.
+
 # Purpose
 This UI was created for the purpose of administering a home monitoring system for plant care. The intent is for users to be able to set up a network of sensors in order to monitor sunlight and moisture levels, soil composition, etc., as well as organize data for each of their houseplants in a convenient space. 
 This project is tied with the "home-monitor-api" project under the same creator, available on GitHub at https://github.com/pallen007/home-monitor-api
